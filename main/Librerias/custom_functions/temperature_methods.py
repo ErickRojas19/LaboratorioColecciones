@@ -29,7 +29,7 @@ def tem_menor(lista):
        for elemento in lista:
            if elemento < menor: 
                menor = elemento
-               return elemento
+               return menor
 
 def desviacion(lista):
 
